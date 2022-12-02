@@ -1,11 +1,14 @@
 # Hi there 👋
-### I'm currently a __PhD student__ at GeomeriX, an INRIA & LIX team, Ecole Polytechnique, France. 
+### I'm currently a __PhD student__ at GeomeriX, an INRIA & LIX team, École Polytechnique, France. 
+
+#### My area of reasearh : 
+I am looking to analyze and predict phase transitions in time series and videos (joint work with the French Ministry of Armed forces).
 
 #### My areas of interest are :
 - Topological Data Analysis
 - Computer Vision
 - Time Series Analysis 
-
+ata 
  
 <!--
 **jumdc/jumdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
