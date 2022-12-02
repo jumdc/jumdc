@@ -8,7 +8,6 @@ I am looking to analyze and predict phase transitions in time series and videos 
 - Topological Data Analysis
 - Computer Vision
 - Time Series Analysis 
-ata 
  
 <!--
 **jumdc/jumdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
