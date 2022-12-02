@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+## I'm currently a __PhD student__ at GeomeriX, an INRIA & LIX team, Ecole Polytechnique, France. 
 
+### My areas of research are :
+- Topological Data Analysis
+- Computer Vision
+- Time Series Analysis 
+
+ 
 <!--
 **jumdc/jumdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
