@@ -1,11 +1,11 @@
 # Hi there 👋
-### I'm currently a __PhD student__ at GeomeriX, an INRIA & LIX team, École Polytechnique, France. 
+### I'm currently a __Data Scientist__ at the French Ministry of Forces.  
 
+<!--
 #### My area of research: 
 I am looking to analyze and predict phase transitions in time series and videos (joint work with the French Ministry of Armed forces).
-
+-->
 #### My areas of interest:
-- Topological Data Analysis
 - Computer Vision
 - Time Series Analysis 
  
