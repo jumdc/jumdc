@@ -7,7 +7,8 @@ I am looking to analyze and predict phase transitions in time series and videos 
 -->
 #### My areas of interest:
 - Computer Vision
-- Time Series Analysis 
+- Time Series Analysis
+- TDA
  
 <!--
 **jumdc/jumdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
