@@ -1,9 +1,12 @@
 # Hi there 👋
-### I'm currently a __Data Scientist__ at the French Ministry of Forces.  
+### I'm currently a PhD Student at INRIA Saclay, Ecole Polytechnique
+
+
 
 <!--
 #### My area of research: 
 I am looking to analyze and predict phase transitions in time series and videos (joint work with the French Ministry of Armed forces).
+__Data Scientist__ at the French Ministry of Forces.  
 -->
 #### My areas of interest:
 - Topological Data Analysis
