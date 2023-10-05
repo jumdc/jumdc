@@ -9,9 +9,9 @@ I am looking to analyze and predict phase transitions in time series and videos 
 __Data Scientist__ at the French Ministry of Forces.  
 -->
 #### My areas of interest:
+- Multimodal learning
 - Topological Data Analysis
 - Computer Vision
-- Time Series Analysis
 
  
 <!--
